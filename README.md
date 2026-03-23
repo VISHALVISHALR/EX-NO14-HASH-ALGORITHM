@@ -1,6 +1,5 @@
 # EX-NO14-HASH-ALGORITHM
-# Name : ARUL KUMARAN S A
-# Reg No: 212224040030
+
 ## AIM:
 To implement HASH ALGORITHM
 
@@ -62,7 +61,8 @@ int main() {
 ```
 
 ## Output:
-<img width="1723" height="973" alt="image" src="https://github.com/user-attachments/assets/3d2eeadf-0a8d-45b0-992f-07c9729462eb" />
+<img width="1449" height="561" alt="image" src="https://github.com/user-attachments/assets/798eff80-3f2f-4f44-ba66-d8e6b7a1230f" />
+
 
 
 
